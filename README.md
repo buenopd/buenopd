@@ -13,6 +13,8 @@ Sou apaixonado por tecnologia, segurança digital e desenvolvimento constante. B
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVzemFsN3Q4eTlyendqeWhrdmxtN2d2ZXNiYnZiOXMwMzY3NTRodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kjn6jc9GhYJf4t90LB/giphy.gif"  />
 
+<br>
+
 ###
 
 <div align="left">
@@ -52,19 +54,9 @@ Sou apaixonado por tecnologia, segurança digital e desenvolvimento constante. B
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
 
+
+---
 <br> 
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buenopd/buenopd/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buenopd/buenopd/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/buenopd/buenopd/pacman-output/breakout-contribution-graph.svg">
-</picture>
-
-###
 
 <br clear="both">
 
