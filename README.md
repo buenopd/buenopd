@@ -52,8 +52,6 @@ Sou apaixonado por tecnologia, segurança digital e desenvolvimento constante. B
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
 
-
----
 <br> 
 
 ###
