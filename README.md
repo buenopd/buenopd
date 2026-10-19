@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Meu nome é Bueno, tenho 18 anos e sou de São Paulo. Atualmente, curso Cybersegurança na FIAP e sigo aprofundando meus conhecimentos na área de Tecnologia da Informação.
+<h4 align="left">Meu nome é Bueno, tenho 19 anos e sou de São Paulo. Atualmente, curso Cybersegurança na FIAP e sigo aprofundando meus conhecimentos na área de Tecnologia da Informação.
 
 Sou apaixonado por tecnologia, segurança digital e desenvolvimento constante. Busco evoluir diariamente tanto no âmbito profissional quanto pessoal, sempre estudando novas ferramentas, explorando conceitos de cibersegurança e acompanhando as transformações do mercado de tecnologia.
 </h4>
